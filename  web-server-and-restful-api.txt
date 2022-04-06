@@ -6,4 +6,16 @@ Apa saja jenis HTTP verbs yang ada (jelaskan fungsinya masing-masing)
 Apa fungsi dari Response Codes?
 
 Jawaban :
-1. 
+1. Static Web Server (or SWS abbreviated) is a very small and fast production-ready web server suitable to serve static web files or assets.
+A server-side dynamic web page is a web page whose construction is controlled by an application server processing server-side scripts. 
+2. Static sites have consist of HTML, CSS, and Javascript that are delivered directly to the user's browser. There is no computation involved in creating the page that will be transmitted to the user, and there is no database that needs to be queried to generate the page.
+Complex websites would be apps and websites that interact and integrate with several third-party applications or services, serve dynamic content to users, and are capable of performing numerous complex operations such as personalization, video streaming, online shopping, and so on.
+3. database
+4. A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. 
+5. They are:
+- post function :'Location' header with link to /customers/{id} containing new ID.
+- get function : Use pagination, sorting and filtering to navigate big lists.
+- put function : update/replace every resource in the entire collection.
+- patch function : modify the collection itself.
+- delete function : delete the whole collection—not often desirable.
+6. Help to know what errors type and causes inside our web.  
