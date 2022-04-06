@@ -1,0 +1,9 @@
+Apa perbedaan antara static web server dan dynamic web server?
+Jelaskan arsitektur static site dan dynamic site
+Apa saja yang dapat kita buat pada sisi server?
+Mohon jelaskan apa itu RESTful?
+Apa saja jenis HTTP verbs yang ada (jelaskan fungsinya masing-masing)
+Apa fungsi dari Response Codes?
+
+Jawaban :
+1. 
